@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋 I'm Adarsh Jain</h1>
-<h3 align="center">Frontend Developer • React.js • Building Scalable Web Applications</h3>
+<h1 align="center">
+  Hi 👋 I'm
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FDC100&height=80&section=header&text=Adarsh%20Jain&fontSize=40&fontColor=000000" />
+</p>
+
+<h3 align="center">
+  Frontend Developer • React.js • Building Scalable Web Applications
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=FDC100&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/adarshjain001">
-    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Jain-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Jain-FDC100?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
----
+<hr style="border: 1px solid FDC100; width: 60%; margin: 30px auto;" />
 
-## 👨‍💻 About Me
+<h2 align="left" style="color:#FDC100;">👨‍💻 About Me</h2>
 
 I am a frontend developer specializing in building responsive and scalable web applications using React.js.  
 I focus on writing clean, maintainable code and continuously improving my understanding of modern web architecture.
@@ -24,7 +33,7 @@ I focus on writing clean, maintainable code and continuously improving my unders
 - 💡 Interested in building clean and user-friendly interfaces
 - 🎯 To grow as a software developer by contributing to impactful real-world projects.  
 
----
+<hr style="border: 1px solid #FDC100; width: 60%; margin: 30px auto;" />
 
 ## 💻 Tech Stack
 
@@ -69,12 +78,5 @@ Modern and fully responsive portfolio website showcasing projects and technical 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshjain2001&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshjain2001&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adarshjain2001&icon=5&color=6"/>
+  <img src="https://streak-stats.demolab.com?user=Adarshjain2001&theme=gruvbox&hide_border=true" />
 </p>
