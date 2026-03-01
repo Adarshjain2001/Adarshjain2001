@@ -2,6 +2,10 @@
 <h3 align="center">Frontend Developer • React.js • Building Scalable Web Applications</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/adarshjain001">
     <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Jain-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -11,13 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate frontend developer focused on building responsive and scalable web applications using React.js.  
-Currently strengthening my knowledge in modern frontend architecture and backend fundamentals.
+I am a frontend developer specializing in building responsive and scalable web applications using React.js.  
+I focus on writing clean, maintainable code and continuously improving my understanding of modern web architecture.
 
 - 🔭 Working on real-world React projects  
 - 🌱 Learning advanced React concepts and Node.js  
 - 🤝 Open to collaboration on frontend applications  
-- 💡 Interested in building clean and user-friendly interfaces  
+- 💡 Interested in building clean and user-friendly interfaces
+- 🎯 To grow as a software developer by contributing to impactful real-world projects.  
 
 ---
 
@@ -40,34 +45,32 @@ Currently strengthening my knowledge in modern frontend architecture and backend
 ## 🚀 Featured Projects
 
 ### 🌦 React Weather Application
-A responsive React weather application with API integration and clean component architecture.
-**Tech:** React, JavaScript  
-🔗 Live Demo: (https://react-weather-app-project.vercel.app/) 
-📂 Repository: (https://github.com/Adarshjain2001/react-weather-app)
+A responsive weather application with real-time API integration and clean component-based architecture.  
+**Tech Stack:** React, JavaScript, REST API  
+🔗 Live Demo: https://react-weather-app-project.vercel.app/  
+📂 Repository: https://github.com/Adarshjain2001/react-weather-app  
 
 ---
 
-### 🛒 Todo Web Application
-A simple and minimalist Todo List application use it to add, complete, and delete tasks.
-**Tech:** React, Javascript
-🔗 Live Demo: (https://todo-app-list-project.vercel.app/)  
-📂 Repository: (https://github.com/Adarshjain2001/todo-app)
+### 📝 Todo Web Application
+A minimalist task management application allowing users to add, complete, and delete tasks with dynamic state handling.  
+**Tech Stack:** React, JavaScript  
+🔗 Live Demo: https://todo-app-list-project.vercel.app/  
+📂 Repository: https://github.com/Adarshjain2001/todo-app  
 
 ---
 
 ### 💼 Portfolio Website
-Modern and responsive portfolio website showcasing projects and skills.  
-**Tech:** React, Tailwind CSS
-🔗 Live Demo: (Coming Soon)  
-📂 Repository: (Coming Soon)
-
----
+Modern and fully responsive portfolio website showcasing projects and technical skills.  
+**Tech Stack:** React, Tailwind CSS  
+🔗 Live Demo: (Deploy Soon)  
+📂 Repository: (Add link once ready)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshjain2001&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshjain2001&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshjain2001&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshjain2001&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
