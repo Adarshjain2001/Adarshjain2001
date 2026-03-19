@@ -23,6 +23,7 @@
 <hr style="border: 1px solid FDC100; width: 60%; margin: 30px auto;" />
 
 <h2 align="left" style="color:#FDC100;">👨‍💻 About Me</h2>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I am a frontend developer specializing in building responsive and scalable web applications using React.js.  
 I focus on writing clean, maintainable code and continuously improving my understanding of modern web architecture.
