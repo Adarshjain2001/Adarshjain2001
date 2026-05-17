@@ -52,29 +52,54 @@ I focus on writing clean, maintainable code and continuously improving my unders
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌦 React Weather Application
-A responsive weather application with real-time API integration and clean component-based architecture.  
-**Tech Stack:** React, JavaScript, REST API  
-🔗 Live Demo: https://react-weather-app-project.vercel.app/  
-📂 Repository: https://github.com/Adarshjain2001/react-weather-app  
+<div align="left">
+
+## 🌦️ React Weather Application
+
+> Real-time weather forecasting app with clean UI and API integration.
+
+```bash
+Tech Stack → React • JavaScript • REST API
+```
+
+<a href="https://react-weather-app-project.vercel.app/">↗ Live Demo</a>
+&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://github.com/Adarshjain2001/react-weather-app">Source Code</a>
+<br/>
 
 ---
 
-### 📝 Todo Web Application
-A minimalist task management application allowing users to add, complete, and delete tasks with dynamic state handling.  
-**Tech Stack:** React, JavaScript  
-🔗 Live Demo: https://todo-app-list-project.vercel.app/  
-📂 Repository: https://github.com/Adarshjain2001/todo-app  
+## 📝 Todo Web Application
+
+> Minimal and responsive task management application with dynamic state handling.
+
+```bash
+Tech Stack → React • JavaScript
+```
+
+<a href="https://todo-app-list-project.vercel.app/">↗ Live Demo</a>
+&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://github.com/Adarshjain2001/todo-app">Source Code</a>
+<br/>
 
 ---
 
-### 💼 Portfolio Website
-Modern and fully responsive portfolio website showcasing projects and technical skills.  
-**Tech Stack:** React, Tailwind CSS  
-🔗 Live Demo: (Deploy Soon)  
-📂 Repository: (Add link once ready)
+## 💼 Portfolio Website
+
+> Personal portfolio website showcasing projects, skills, and frontend work.
+
+```bash
+Tech Stack → React
+```
+
+<a href="https://adarsh-jain-portfolio.vercel.app/">↗ Live Demo</a>
+&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://github.com/Adarshjain2001/portfolio">Source Code</a>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
