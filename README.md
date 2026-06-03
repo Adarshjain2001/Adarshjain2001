@@ -56,6 +56,21 @@ I focus on writing clean, maintainable code and continuously improving my unders
 
 <div align="left">
 
+## 🌦️ Castlane
+
+> A modern home for diecast enthusiasts.
+
+```bash
+Tech Stack → React • Vite
+```
+
+<a href="https://castlanes.vercel.app">↗ Live Demo</a>
+&nbsp;&nbsp;✦&nbsp;&nbsp;
+<a href="https://github.com/Adarshjain2001/castlane">Source Code</a>
+<br/>
+
+---
+
 ## 🌦️ React Weather Application
 
 > Real-time weather forecasting app with clean UI and API integration.
